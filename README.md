@@ -1,4 +1,5 @@
-Greetings ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krittin Tragunejindarat
+Greetings ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Krittin Tragunejindarat
 ===============================================================================================================================================
 
 Student
@@ -6,7 +7,7 @@ Student
 
 I've been learning C++ for 6 months.
 
-* 🌍  I'm based in Bangkok, THailand
+* 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [itin752@gmail.com](mailto:itin752@gmail.com)
 * 🧠  I'm learning JavaScript
 
